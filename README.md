@@ -8,7 +8,7 @@ The Home Depot, Inc., commonly known as Home Depot, is the largest home improvem
 </tr>
 </table>
 
-## The home depot clone
+## The home depot website clone
 
 
 ### Home page
